@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: '',
+    baseUrl: 'https://keylaconde.github.io/Tailwinds.io/public/index.html',
   },
 }

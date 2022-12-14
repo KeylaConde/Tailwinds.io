@@ -1,4 +1,4 @@
-{
+{"homepage": "https://keylaconde.github.io/Tailwinds.io/public/index.html",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
